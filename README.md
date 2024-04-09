@@ -3,3 +3,8 @@ En las empresas pequeñas no hay un software que lleve el control de existencia 
 para los cuales trabaja dichas empresas. 
 
 Se ha planteado la creación de un software el cual mitigue las necesidades de las empresas haciendo que sus procesos sean más eficientes y agiles de acuerdo la problemática presentada. Es tema presentado es basado en la vida real ya que a diario se presenta esta falencia.
+
+##Cuál es el campo sobre el que se proyecta la investigación
+
+Es un estudio de caso explorativo que se caracteriza por su flexibilidad, rápido procesamiento y generalmente antecede a otros tipos de investigación la cual no sólo persigue describir o acercarse a un problema, sino que intenta encontrar las causas del mismo.
+“porque estuve inmerso en el tema, tengo el conocimiento y lo viví en la vida laboral”.
