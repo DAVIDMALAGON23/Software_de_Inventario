@@ -24,7 +24,7 @@ Esto nos lleva a pérdidas de tiempo para la creación del documento de asignaci
 En cuanto a realizar una asignación de elementos hay ser más específico porque al ser un modelo manual hay que tener el conocimiento sobre el material o materiales que se vayan a asignar en los cuales hay que identificar los seriales si la herramienta lo indica para su identificación, modelo o referencia del elemento el cual se va a entregar, describir los accesorios si el elemento a entregar los llegara a contener y el estado del mismo, no en todos los casos se entregan elementos nuevos, los elementos muchas veces son reutilizados nuevamente ya que cuando los devuelven, los devuelven en buen estado o han sido usados muy poco tiempo y a veces se entregan elementos que tienen detalles físicos que se pueden asignar y para el momento de asignar, indicar con que observaciones se entrega el elemento y quede referenciado en el documento y no por escrito para la presentación del mismo documento.
 Un orden al generar el acta de entrega de elementos para la presentación del documento, hay que modificar el tamaño de las celdas a un tamaño, manejar un tipo de letra y un tamaño, crear celdas cuando en la asignación de elementos pasa más de una página.
 
-# A qué o a quiénes se van a aplicar los resultados esperados
+# A qué o  a quiénes se van a aplicar los resultados esperados
 
 Principalmente la empresa porque va a obtener resultados más detallados de acuerdo con la necesidad que esté buscando.
 
