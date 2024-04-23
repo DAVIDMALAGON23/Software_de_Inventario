@@ -1,0 +1,64 @@
+https://www.siigo.com/
+https://www.zoho.com/es-xl/inventory/
+https://partkeepr.org/
+https://www.sellbrite.com/
+
+
+<!DOCTYPE html>
+<html>
+<html lang="es"> 
+
+<body>
+    <head>
+        <title> SIC </title>
+        <img src="Imagenes/BANDERA DE COLOMBIA.jpg" width="177" height="100" alt="LOGO LAS INICIALES DEL SOFTWARE SIC Y LA BANDERA DE COLOMBIA"> <br>
+    <head>Software Inventory Control</head>
+    <h2>
+        "El uso de un software de inventarios es fundamental para cualquier negocio que maneje un stock de productos".
+    </h2>
+    
+    <h3>
+        Este tipo de herramienta ofrece numerosos beneficios, como la automatización de procesos de registro y seguimiento de inventario, lo que permite una gestión más eficiente y precisa de los activos de la empresa.
+    </h3>
+
+    <h4>
+
+        por que usar un software de inventarios <br> <br>
+
+        - Te ayuda a mantener un mejor control de tus productos. <br>
+        - A gestionar tu stock de manera más eficiente <br>
+        - A prevenir pérdidas por productos vencidos o dañados. <br> 
+        - A agilizar el proceso de pedidos y reabastecimiento. <br> 
+        - A generar informes y análisis sobre el desempeño de tu inventario.
+    </h4>
+
+    <footer>
+
+        <h6>DAVID MALAGON</h6>
+        <h6>3152397714</h6>  
+
+    </footer>
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+    </head>
+
+
+
+
+</body>
+
+
+
+</html>
