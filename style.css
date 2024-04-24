@@ -19,6 +19,25 @@
     gap: 20px;
     }
 
+.form{
+    padding: 20px;
+    background: darkblue;
+    margin: 200px;
+    margin-left: 300px;
+    text-align: center;
+    color: goldenrod;
+    border-top: 2px solid;
+    font-family: fantasy;
+
+    
+
+
+
+}
+
+
+
+
     
     
 /*body{
